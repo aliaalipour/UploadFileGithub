@@ -1,0 +1,24 @@
+Install Package Manager Console
+
+==> BlazorInputFile
+==> Newtonsoft.Json
+
+==========================================================
+
+add inputfile.js To WWWROOT And Index.html
+
+==========================================================
+
+Add Interface to Webassembly.Client 
+Add Service to Webassembly.Client
+
+==========================================================
+Add appsettings.json To WWWROOT
+
+==========================================================
+
+Add Controller to Webassembly.Server UploadFileController
+
+==========================================================
+
+
